@@ -1,0 +1,4 @@
+1000011
+Conversion of above binary number into decimal is: 67
+67
+Conversion of above decimal number into binary is: 1000011
